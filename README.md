@@ -1,2 +1,2 @@
 # git.tuto
-ini adalah git tutorial
+ini merupakan git tutorial
